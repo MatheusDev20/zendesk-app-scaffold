@@ -1,0 +1,10 @@
+.cx-tab {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.f-1 {
+  flex: 1;
+}

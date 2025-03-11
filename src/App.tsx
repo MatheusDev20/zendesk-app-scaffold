@@ -1,7 +1,10 @@
+import { CTabs } from './components/Tabs'
 
 function App() {
   return (
-   <h1 className="text-gray-700">Running Locally App Refresh</h1>
+    <div className="flex w-screen">
+      <CTabs />
+    </div>
   )
 }
 
